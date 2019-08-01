@@ -1,0 +1,43 @@
+body {
+  background-color: darkkhaki;
+}
+
+.equal {
+  width: 95px;
+  height: 40px;
+  background-color: pink;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.operator {
+  width: 40px;
+  height: 40px;
+  background-color: pink;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.number {
+  width: 40px;
+  height: 40px;
+  background-color: pink;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.screen {
+  background-color: white;
+  font-size: 30px;
+  width: 210px;
+  height: 40px;
+  text-align: right;
+  border: 1px solid #888;
+  border-radius: 5px;
+}
+
+.container {
+  top: 30px;
+  position: relative;
+  left: 40%;
+}
